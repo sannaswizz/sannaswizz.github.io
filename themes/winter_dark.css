@@ -1,0 +1,26 @@
+@import "tailwindcss";
+
+:root {
+  --bg-color: #1a202c;
+  --text-color: #a0aec0;
+  --accent-color: #63b3ed;
+}
+
+* {
+  background-color: var(--bg-color);
+  color: var(--text-color);
+}
+
+a, select, .active {
+  color: var(--accent-color);
+}
+
+header svg path {
+  fill: var(--text-color);
+}
+header svg:hover path {
+  fill: var(--accent-color);
+}
+header svg:hover {
+  cursor: pointer;
+}
