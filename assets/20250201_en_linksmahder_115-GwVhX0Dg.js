@@ -1,4 +1,4 @@
-import{j as e}from"./index-CzwAzRV9.js";import{P as t}from"./PDFViewer-BAVajzoq.js";const o={title:"LINKSMAHDER 115",image:"../images/IMG_20250419_194004_902.jpg",tags:["life","publication"],previewText:null};function i(r){const n={h1:"h1",p:"p",...r.components};return e.jsxs(e.Fragment,{children:[e.jsx(n.h1,{children:"LINKSMAHDER 115"}),`
+import{j as e}from"./index-Bk06GaO0.js";import{P as t}from"./PDFViewer-DJa68Xps.js";const o={title:"LINKSMAHDER 115",image:"../images/IMG_20250419_194004_902.jpg",tags:["life","publication"],previewText:null};function i(r){const n={h1:"h1",p:"p",...r.components};return e.jsxs(e.Fragment,{children:[e.jsx(n.h1,{children:"LINKSMAHDER 115"}),`
 `,e.jsx("img",{src:"../../images/linksmahder115_logo.png",className:"w-full h-90 object-cover rounded-lg md:max-w-md lg:max-w-lg mx-auto"}),`
 `,e.jsx(n.h1,{children:"A Life Between Escape, New Beginnings, and Hope"}),`
 `,e.jsx(n.p,{children:"It has now been three years since the large-scale Russian war of aggression against Ukraine began. Since then, millions have fled. Some of them ended up in Madiswil."}),`
