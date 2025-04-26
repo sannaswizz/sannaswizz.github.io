@@ -1,4 +1,4 @@
-import{j as e}from"./index-Bk06GaO0.js";const o=void 0;function t(a){const n={h1:"h1",p:"p",...a.components};return e.jsxs(e.Fragment,{children:[e.jsx("img",{src:"../../images/2025-04-20 01.24.14.jpg",className:"w-full h-130 object-cover rounded-lg md:max-w-md lg:max-w-lg mx-auto"}),`
+import{j as e}from"./index-BS0D7q8f.js";const o=void 0;function t(a){const n={h1:"h1",p:"p",...a.components};return e.jsxs(e.Fragment,{children:[e.jsx("img",{src:"../../images/2025-04-20 01.24.14.jpg",className:"w-full h-130 object-cover rounded-lg md:max-w-md lg:max-w-lg mx-auto"}),`
 `,e.jsx(n.h1,{children:"Welcome to my personal blog!"}),`
 `,e.jsx(n.p,{children:"My name is Oksana. I am a trained teacher and have been living in Switzerland for about three years."}),`
 `,e.jsx(n.p,{children:"My big goal is to work as a teacher in Switzerland."}),`
