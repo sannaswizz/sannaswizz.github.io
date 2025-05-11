@@ -1,5 +1,0 @@
-import{j as n}from"./index-BS0D7q8f.js";const o={title:"Day of the Reading",image:"../images/2025-04-26 21.58.49.jpg",tags:["writer","event"],previewText:"Reading on 21/05/2025: I will read my own story in Aarwangen."};function i(t){const e={h1:"h1",h3:"h3",strong:"strong",...t.components};return n.jsxs(n.Fragment,{children:[n.jsx(e.h1,{children:"Day of the Reading with Me and My Fellow Writers"}),`
-`,n.jsx("img",{src:"../../images/2025-04-26 21.58.49.jpg",className:"w-full h-130 object-cover rounded-lg md:max-w-md lg:max-w-lg mx-auto"}),`
-`,n.jsxs(e.h3,{children:["On ",n.jsx(e.strong,{children:"May 21, 2025, from 10:00 to 11:00 a.m."}),", a special reading event will take place at ",n.jsx(e.strong,{children:"Lebensart in Aarwangen"}),"."]}),`
-`,n.jsx(e.h3,{children:"I will participate together with my colleagues from the SWO writing association and will present my self-written story."}),`
-`,n.jsx(e.h3,{children:"I warmly invite you to join us and wish you many touching moments full of emotion and inspiration."})]})}function r(t={}){const{wrapper:e}=t.components||{};return e?n.jsx(e,{...t,children:n.jsx(i,{...t})}):i(t)}export{r as default,o as frontmatter};
