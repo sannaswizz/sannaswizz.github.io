@@ -1,4 +1,4 @@
-import{j as e}from"./index-CVAtbYyf.js";const s={title:"TiM – Tandem in the Museum",image:"../images/IMG_20250419_194219_700.jpg",tags:["writer","publication"],previewText:"I would like to thank TiM–Tam for the voucher for a museum visit."};function a(n){const t={br:"br",h1:"h1",p:"p",...n.components};return e.jsxs(e.Fragment,{children:[e.jsx(t.h1,{children:"TiM – Tandem in the Museum"}),`
+import{j as e}from"./index-CL7_54GJ.js";const s={title:"TiM – Tandem in the Museum",image:"../images/IMG_20250419_194219_700.jpg",tags:["writer","publication"],previewText:"I would like to thank TiM–Tam for the voucher for a museum visit."};function a(n){const t={br:"br",h1:"h1",p:"p",...n.components};return e.jsxs(e.Fragment,{children:[e.jsx(t.h1,{children:"TiM – Tandem in the Museum"}),`
 `,e.jsx("img",{src:"../../images/IMG_20250419_194219_700.jpg",className:"w-full h-130 object-cover rounded-lg md:max-w-md lg:max-w-lg mx-auto"}),`
 `,e.jsx(t.p,{children:"I would like to thank TiM–Tam for the voucher for a museum visit."}),`
 `,e.jsxs(t.p,{children:["All animals, whether big or small, are content.",e.jsx(t.br,{}),`

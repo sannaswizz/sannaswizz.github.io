@@ -1,4 +1,4 @@
-import{j as e}from"./index-CVAtbYyf.js";import{P as r}from"./PDFViewer-FHF9B1su.js";const o={title:"Geschichte über den Katzen",image:"../images/Screenshot 2025-04-26 at 11.12.54 PM.png",tags:["story","writer"],previewText:"Meine eigene Vision des Bildes „SEELENWÄRMER“ von Fritz Huser"};function i(n){const t={h1:"h1",p:"p",...n.components};return e.jsxs(e.Fragment,{children:[e.jsx(t.h1,{children:"Geschichte über den Katzen"}),`
+import{j as e}from"./index-CL7_54GJ.js";import{P as r}from"./PDFViewer-DQPaoPRK.js";const o={title:"Geschichte über den Katzen",image:"../images/Screenshot 2025-04-26 at 11.12.54 PM.png",tags:["story","writer"],previewText:"Meine eigene Vision des Bildes „SEELENWÄRMER“ von Fritz Huser"};function i(n){const t={h1:"h1",p:"p",...n.components};return e.jsxs(e.Fragment,{children:[e.jsx(t.h1,{children:"Geschichte über den Katzen"}),`
 `,e.jsx("img",{src:"../../images/Screenshot 2025-04-26 at 11.12.54 PM.png",className:"w-full h-90 object-cover rounded-lg md:max-w-md lg:max-w-lg mx-auto"}),`
 `,e.jsx("br",{}),`
 `,e.jsx(t.p,{children:'Meine eigene Vision des Bildes Fritz Huser, Lenzburg „SEELENWÄRMER"'}),`

@@ -1,4 +1,4 @@
-import{j as e}from"./index-CVAtbYyf.js";const m={title:"TiM – Tandem im Museum",image:"../images/IMG_20250419_194219_700.jpg",tags:["writer","publication"],previewText:"Ich danke Tim Tam für den Gutschein für einen Museumsbesuch"};function s(i){const n={h1:"h1",p:"p",...i.components};return e.jsxs(e.Fragment,{children:[e.jsx(n.h1,{children:"TiM – Tandem im Museum"}),`
+import{j as e}from"./index-CL7_54GJ.js";const m={title:"TiM – Tandem im Museum",image:"../images/IMG_20250419_194219_700.jpg",tags:["writer","publication"],previewText:"Ich danke Tim Tam für den Gutschein für einen Museumsbesuch"};function s(i){const n={h1:"h1",p:"p",...i.components};return e.jsxs(e.Fragment,{children:[e.jsx(n.h1,{children:"TiM – Tandem im Museum"}),`
 `,e.jsx("img",{src:"../../images/IMG_20250419_194219_700.jpg",className:"w-full h-130 object-cover rounded-lg md:max-w-md lg:max-w-lg mx-auto"}),`
 `,e.jsx(n.p,{children:"Ich danke Tim Tam für den Gutschein für einen Museumsbesuch"}),`
 `,e.jsx(n.p,{children:`Alle Tiere ob gross oder klein sind zufrieden.

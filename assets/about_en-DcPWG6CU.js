@@ -1,4 +1,4 @@
-import{j as e}from"./index-CVAtbYyf.js";import{Y as t}from"./YearsSince-BGbvhJI8.js";const l=void 0;function i(a){const n={br:"br",h1:"h1",li:"li",p:"p",strong:"strong",ul:"ul",...a.components};return e.jsxs(e.Fragment,{children:[e.jsx("img",{src:"../../images/2025-04-20 01.24.35.jpg",className:"w-full h-130 object-cover rounded-lg md:max-w-md lg:max-w-lg mx-auto"}),`
+import{j as e}from"./index-CL7_54GJ.js";import{Y as t}from"./YearsSince-CMKfOePG.js";const l=void 0;function i(a){const n={br:"br",h1:"h1",li:"li",p:"p",strong:"strong",ul:"ul",...a.components};return e.jsxs(e.Fragment,{children:[e.jsx("img",{src:"../../images/2025-04-20 01.24.35.jpg",className:"w-full h-130 object-cover rounded-lg md:max-w-md lg:max-w-lg mx-auto"}),`
 `,e.jsx(n.h1,{children:"Hello! My name is Oksana"}),`
 `,e.jsxs(n.p,{children:["At the moment, I have been living in Switzerland for about ",e.jsx(n.strong,{children:e.jsx(t,{date:"2022-03-20"})})," years and I am learning German."]}),`
 `,e.jsx(n.p,{children:"A little about myself:"}),`

@@ -1,4 +1,4 @@
-import{j as e}from"./index-CVAtbYyf.js";import{P as i}from"./PDFViewer-FHF9B1su.js";const o={title:"The Tender Kiss",image:"../images/2025-04-20 01.22.24.jpg",tags:["poem","writer"],previewText:'A poem that describes the painting "The Kiss" by Gustav Klimt'};function n(s){const t={br:"br",em:"em",h1:"h1",p:"p",...s.components};return e.jsxs(e.Fragment,{children:[e.jsx(t.h1,{children:"The Tender Kiss"}),`
+import{j as e}from"./index-CL7_54GJ.js";import{P as i}from"./PDFViewer-DQPaoPRK.js";const o={title:"The Tender Kiss",image:"../images/2025-04-20 01.22.24.jpg",tags:["poem","writer"],previewText:'A poem that describes the painting "The Kiss" by Gustav Klimt'};function n(s){const t={br:"br",em:"em",h1:"h1",p:"p",...s.components};return e.jsxs(e.Fragment,{children:[e.jsx(t.h1,{children:"The Tender Kiss"}),`
 `,e.jsxs(t.p,{children:["The task in my writing club was to describe the painting ",e.jsx(t.em,{children:'"The Kiss"'})," by Gustav Klimt.",e.jsx(t.br,{}),`
 `,"What could be more romantic than a poem about love and the kiss?"]}),`
 `,`

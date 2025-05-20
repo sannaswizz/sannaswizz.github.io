@@ -1,4 +1,4 @@
-import{j as e}from"./index-CVAtbYyf.js";import{P as t}from"./PDFViewer-FHF9B1su.js";const a={title:"LINKSMÄHDER 115",image:"../images/IMG_20250419_194004_902.jpg",tags:["life","publication"],previewText:"Ein Leben zwischen Flucht, Neubeginn und Hoffnung"};function r(i){const n={h1:"h1",p:"p",...i.components};return e.jsxs(e.Fragment,{children:[e.jsx(n.h1,{children:"LINKSMÄHDER 115"}),`
+import{j as e}from"./index-CL7_54GJ.js";import{P as t}from"./PDFViewer-DQPaoPRK.js";const a={title:"LINKSMÄHDER 115",image:"../images/IMG_20250419_194004_902.jpg",tags:["life","publication"],previewText:"Ein Leben zwischen Flucht, Neubeginn und Hoffnung"};function r(i){const n={h1:"h1",p:"p",...i.components};return e.jsxs(e.Fragment,{children:[e.jsx(n.h1,{children:"LINKSMÄHDER 115"}),`
 `,e.jsx("img",{src:"../../images/linksmahder115_logo.png",className:"w-full h-90 object-cover rounded-lg md:max-w-md lg:max-w-lg mx-auto"}),`
 `,e.jsx(n.p,{children:"Ein Leben zwischen Flucht, Neubeginn und Hoffnung"}),`
 `,e.jsx(n.p,{children:`Inzwischen sind bereits drei Jahre vergangen seit Beginn des gross angelegten russischen Angriffskriegs

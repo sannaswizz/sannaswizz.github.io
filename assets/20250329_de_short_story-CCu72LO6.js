@@ -1,4 +1,4 @@
-import{j as e}from"./index-CVAtbYyf.js";import{P as t}from"./PDFViewer-FHF9B1su.js";const c={title:"Mein eigenes Märchen",image:"../images/Screenshot 2025-04-26 at 11.21.34 PM.png",tags:["story","writer"],previewText:"Die Herausforderung, ein Märchen in 150 Wörtern zu erzählen"};function s(r){const n={h1:"h1",p:"p",...r.components};return e.jsxs(e.Fragment,{children:[e.jsx(n.h1,{children:"Mein eigenes Märchen"}),`
+import{j as e}from"./index-CL7_54GJ.js";import{P as t}from"./PDFViewer-DQPaoPRK.js";const c={title:"Mein eigenes Märchen",image:"../images/Screenshot 2025-04-26 at 11.21.34 PM.png",tags:["story","writer"],previewText:"Die Herausforderung, ein Märchen in 150 Wörtern zu erzählen"};function s(r){const n={h1:"h1",p:"p",...r.components};return e.jsxs(e.Fragment,{children:[e.jsx(n.h1,{children:"Mein eigenes Märchen"}),`
 `,e.jsx("img",{src:"../../images/Screenshot 2025-04-26 at 11.21.34 PM.png",className:"w-full h-90 object-cover rounded-lg md:max-w-md lg:max-w-lg mx-auto"}),`
 `,e.jsx("br",{}),`
 `,e.jsx(n.p,{children:"Ich habe ein eigenes Märchen geschrieben."}),`
